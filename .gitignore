@@ -1,1 +1,19 @@
+# İşletim sistemi
 .DS_Store
+Thumbs.db
+desktop.ini
+
+# Gizli bilgiler (asla commit edilmez)
+.env
+.env.*
+*.pem
+*.key
+*.p12
+secrets/
+
+# Düzenleyici ve geçici dosyalar
+.vscode/
+.idea/
+*.swp
+*.tmp
+*.log
